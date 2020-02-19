@@ -1,0 +1,14 @@
+{
+  "name": "node_p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "parker",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
